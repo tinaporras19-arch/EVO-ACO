@@ -109,7 +109,7 @@ python main.py
   
   ## Output Information
   
-  ### 🖥 Console Output
+  ### Console Output
   - Details of the `.npz` file contents.  
 - Graph information (nodes, edges, attributes).  
 - Progress logs for each iteration (every 10 steps).  
@@ -124,7 +124,7 @@ Minimum cost of best path: 42.37
 
 ---
   
-  ## 🖼 Graphical Output
+  ## Graphical Output
   
   The algorithm produces a **Matplotlib plot** showing:
   -  **Gray**: Other nodes and edges.  
@@ -163,4 +163,5 @@ The plot includes a title, legend, and node labels.
 It serves as an educational and research tool for exploring **bioinformatics**, **complex systems**, and **evolutionary computation**.
 
 ---
+
   
